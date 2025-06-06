@@ -33,7 +33,7 @@ order processing.
 - Delivered comprehensive API documentation using swagger and ensured production readiness with error
 handlin.
 
-### 2. [Authentication and Authorization](https://github.com/Mohamed-Sheriif/authentication-and-authorization)
+### 3. [Authentication and Authorization](https://github.com/Mohamed-Sheriif/authentication-and-authorization)
 - Developed a secure authentication and authorization REST API using Node.js and Express.js.
 - Implemented JWT-based access and refresh tokens, token rotation, and blacklisting (logout and logout-all).
 - Integrated Google OAuth 2.0 login via Passport.js and implemented role-based access control.
