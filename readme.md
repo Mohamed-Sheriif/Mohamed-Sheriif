@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Sherif
 
-I'm a Backend Developer passionate about Node.js and Express.  
+I'm a Backend Developer passionate about Node.js, Express and Nest.js.  
 I enjoy learning new technologies and building projects that solve real problems.
 
 ---
