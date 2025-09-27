@@ -12,7 +12,7 @@ I enjoy learning new technologies and building projects that solve real problems
 - Databases: MongoDB, postgresql , mysql....etc
 - Authentication: JWT, Passport.js
 - Tools: Git, GitHub, Postman, VS Code
-- Concepts: RESTful APIs, Testing (Jest - learning), Docker (beginner)
+- Concepts: RESTful APIs, Testing (Jest - learning), Docker
 
 ---
 
