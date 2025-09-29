@@ -33,12 +33,16 @@ order processing.
 - Delivered comprehensive API documentation using swagger and ensured production readiness with error
 handlin.
 
-### 3. [Authentication and Authorization](https://github.com/Mohamed-Sheriif/authentication-and-authorization)
-- Developed a secure authentication and authorization REST API using Node.js and Express.js.
-- Implemented JWT-based access and refresh tokens, token rotation, and blacklisting (logout and logout-all).
-- Integrated Google OAuth 2.0 login via Passport.js and implemented role-based access control.
-- Enabled Two-Factor Authentication (2FA) with TOTP and QR code generation.
-- Used lightweight NeDB for persistence and NodeCache for temporary token caching and 2FA flow.
+### 3. [Hotel Booking API](https://github.com/Mohamed-Sheriif/hotel-booking-api)
+- Built a comprehensive hotel booking API using NestJS and TypeScript with role-based authentication and
+JWT management.
+- Implemented Redis caching for hotel data, reducing database queries by 60% and improving response times.
+- Integrated Stripe payment processing with webhook handling for multiple payment methods and automated
+refunds.
+- Built Swagger/OpenAPI documentation with detailed DTOs and interactive testing interface.
+- Designed notification system with email and SMS using SMTP and Twilio integration.
+- Implemented Docker containerization with multi-service architecture and CI/CD pipeline.
+- Applied TypeORM for database management with entity relationships across 8+ interconnected tables.
 
 ---
 
