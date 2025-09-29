@@ -8,7 +8,7 @@ I enjoy learning new technologies and building projects that solve real problems
 ## 💻 Technical Skills
 
 - Programming Languages: JavaScript (ES6+), TypeScript
-- Backend: Node.js, Express.js and nest
+- Backend: Node.js, Express.js and Nest.Js.
 - Databases: MongoDB, postgresql , mysql....etc
 - Authentication: JWT, Passport.js
 - Tools: Git, GitHub, Postman, VS Code
